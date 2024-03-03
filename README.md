@@ -29,7 +29,7 @@
 <hr>
 
 ### Como me encontrar:
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-282a36?style=for-the-badge&logo=appveyor&color=bd93f9)](https://drive.google.com/file/d/10DcKCxDyV9HUiu1i3xfk6K7-rawSpndU/view?usp=drive_link)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-282a36?style=for-the-badge&logo=appveyor&color=bd93f9)](https://drive.google.com/file/d/1u2f_kKUtpKjoNsPVugfVa2asH1Dc45iV/view?usp=drive_link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/italogab00/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-gabriel-977760204?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
